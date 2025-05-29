@@ -1,4 +1,4 @@
-# COTF: Crowdsourcing On The Fly Framework
+# COTF Cross-Platform Online Team Formation in Spatial Crowdsourcing
 
 COTF is a novel framework for dynamic task allocation in spatial crowdsourcing, focusing on efficient worker cooperation and skill coverage optimization.
 
